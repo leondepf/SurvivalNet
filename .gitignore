@@ -1,0 +1,10 @@
+*.out
+*.pyc
+*.lprof
+data/
+results/
+output/
+build
+dist
+*.egg-info
+*.out
